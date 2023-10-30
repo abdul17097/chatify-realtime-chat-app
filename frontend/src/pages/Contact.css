@@ -1,0 +1,8 @@
+.scrolls::-webkit-scrollbar{
+    width: 1px;
+    background: black;
+    overflow-y: auto;
+}
+.scrolls::-webkit-scrollbar-thumb{
+    background-color: rgb(75, 72, 72);
+}

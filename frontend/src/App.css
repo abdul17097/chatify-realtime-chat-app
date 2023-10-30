@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #131324;
+    /* background: #030307; */
+    
+
+}
+.scrolls::-webkit-scrollbar{
+    width: 1px;
+    background: black;
+    overflow-y: auto;
+}
+.scrolls::-webkit-scrollbar-thumb{
+    background-color: rgb(75, 72, 72);
+}
